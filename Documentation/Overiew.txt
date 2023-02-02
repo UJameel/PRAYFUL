@@ -1,0 +1,12 @@
+Praying App
+
+Features:
+•	Users are asked their prayer goals
+•	Users can choose between Beginner, Intermediate and Pro
+•	Beginner focuses on the user aiming to pray 1-5 prays
+•	Intermediate focuses on the user aiming to pray all prays plus some addtionary ones
+•	Pro focuses all the prayers including additional ones
+•	User will achieve badges as they progress eg. 1 week streak
+•	Users can view instructions on how to pray and perform wudhu
+•	Users can view instructions on the different prayer types eg. fard, sunnah etc.
+•	Kabha direction compass
